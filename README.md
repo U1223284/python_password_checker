@@ -7,27 +7,27 @@ This Python program checks the strength of a password based on common security c
 2. Run the following command in your terminal:
    Clone the Repository (if someone is downloading from GitHub):
 
-2a. git clone https://github.com/YourUsername/your-repo-name.git
-cd your-repo-name
+   2a. git clone https://github.com/YourUsername/your-repo-name.git
+      cd your-repo-name
 
-2b. Ensure Python is Installed. Check if Python 3 is installed by running:
+   2b. Ensure Python is Installed. Check if Python 3 is installed by running:
 
-python --version
+      python --version
 
-or for some systems:
+      or for some systems:
 
-python3 --version
+      python3 --version
 
 3. Run the Program from the Terminal
-To execute the program directly from the terminal:
+   To execute the program directly from the terminal:
 
-python password_checker.py
+   python password_checker.py
 
-Or, if Python 3 is required:
+   Or, if Python 3 is required:
 
-python3 password_checker.py
+   python3 password_checker.py
 
 4. When prompted, type your password and press Enter:
 
-Enter your password to check its strength: MyP@ssw0rd123!
-Password Strength: Strong Password
+   Enter your password to check its strength: MyP@ssw0rd123!
+   Password Strength: Strong Password
