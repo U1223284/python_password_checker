@@ -31,3 +31,15 @@ This Python program checks the strength of a password based on common security c
 
    Enter your password to check its strength: MyP@ssw0rd123!
    Password Strength: Strong Password
+---------------------------------------------------------------------
+
+## Limitations
+- This tool is for educational use only.
+- It does not guarantee full security for sensitive information.
+
+## Ethical Considerations
+- This tool is designed to promote better password practices.
+- Misuse could involve providing a false sense of security if used for critical systems.
+
+## License
+This project is licensed under the MIT License.
